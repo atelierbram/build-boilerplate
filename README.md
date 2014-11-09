@@ -46,9 +46,8 @@ All tasks accept a `--dev` flag, which disables CPU intensive tasks like JS-opti
 - [Effeckt.css](https://github.com/h5bp/Effeckt.css)
 - [article by Chis Coyier](http://24ways.org/2013/grunt-is-not-weird-and-hard/)
 
-
-**TODO**
-- maybe generate [gh-pages](https://github.com/tschaub/grunt-gh-pages), maybe better do this in extended version of this boilerplate (_and will this then still be a so called "boilerplate"_)
+## Extension
+For a more opinionated starter-theme and boilerplate for static site generation, one could consider [Flex Starter](https://github.com/atelierbram/flex-starter) - which uses, among other things [grunt-gh-pages](https://github.com/tschaub/grunt-gh-pages), to push to your gh-pages branch hosted on GitHub or any other branch anywhere else. Even better, when one likes _parts_ of this thing, but _other parts_ not so much, then maybe have [build-boilerplate](https://github.com/atelierbram/flex-starter) and this thing side by side, pick and choose, assemble your own starter-theme: make your own Bootstrap.
 
 ### License
 
