@@ -1,23 +1,22 @@
 {
-  "name": "static-site-boilerplate",
+  "name": "build-boilerplate",
   "version": "0.0.1",
   "private": true,
-  "description": "Some boilerplate code for static site generation",
+  "description": "Boilerplate code for static site generation",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/atelierbram/static-site-boilerplate.git"
+    "url": "git://github.com/atelierbram/build-boilerplate.git"
   },
   "author": "Bram de Haan <info@atelierbramdehaan.nl>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atelierbram/static-site-boilerplate/issues"
+    "url": "https://github.com/atelierbram/build-boilerplate/issues"
   },
-  "homepage": "https://github.com/atelierbram/static-site-boilerplate",
+  "homepage": "https://github.com/atelierbram/build-boilerplate",
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-contrib-watch": "~0.6.1",
-    "grunt-contrib-requirejs": "~0.4.4",
     "grunt-hashres": "~0.4.1",
     "matchdep": "~0.3.0",
     "assemble": "~0.4.42",

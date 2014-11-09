@@ -22,7 +22,7 @@ After every change the affected files are regenerated.
 1. `grunt clean` - cleanup
 1. `grunt assemble` - generates html with Assemble
 1. `grunt sass` - generated css file(s) from Sass.scss files
-1. `grunt concat` - concatanates JavaScript.js files
+1. `grunt concat` - concatenates JavaScript.js files
 1. `grunt uglify` - minifies JavaScript.js files
 1. `grunt cssmin` - minifies CSS.css files
 1. `grunt hashres` - computes hash code for static resources (aka cachebusting)
@@ -35,7 +35,7 @@ All tasks accept a `--dev` flag, which disables CPU intensive tasks like JS-opti
 ## What is included?
 1. Static site generation with [Assemble](http://assemble.io/)
 1. Generating and minifying a single CSS file with Sass
-1. Concatanate and minify JavaScript with Concat and Uglify
+1. Concatanate and minify JavaScript
 1. Generating hash (cache buster) for JS and CSS files
 1. Automatic regeneration and Liverload during development
 
@@ -48,7 +48,7 @@ All tasks accept a `--dev` flag, which disables CPU intensive tasks like JS-opti
 
 
 **TODO**
-- maybe generate [gh-pages](https://github.com/tschaub/grunt-gh-pages)
+- maybe generate [gh-pages](https://github.com/tschaub/grunt-gh-pages), maybe better do this in extended version of this boilerplate (_and will this then still be a so called "boilerplate"_)
 
 ### License
 
